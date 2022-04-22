@@ -18,7 +18,7 @@ namespace Carga
 
         string nombre;
         string apellido;
-        long dni;
+        string dni;
         DateTime fechanac;
         string domicilio;
         string localidad;
@@ -55,7 +55,7 @@ namespace Carga
                 socio1.gruposanguineo = Console.ReadLine() + " RH Negativo";
 
                 Console.WriteLine("Ingrese el D.N.I: ");
-                socio1.dni = Convert.ToInt32(Console.ReadLine());
+                socio1.dni =Console.ReadLine();
 
                 Console.WriteLine("Ingrese el nombre de la persona: ");
                 socio1.nombre = Console.ReadLine();
@@ -95,9 +95,35 @@ namespace Carga
 
                 socio1.categoria = clasi.clasificar(socio1.fechanac, socio1.enfermedad);
 
-                Console.WriteLine("Se registro con exito");
+                Console.WriteLine("Los Terminos y condiciones son:" +
+                    "\n ..." +
+                    "\n ..." +
+                    "\n ..." +
+                    "\n ..." +
+                    "\n ..." +
+                    "\n 1 - Aceptar" +
+                    "\n 2 - Denegar");
+                j = Convert.ToInt32(Console.ReadLine());
+                while(j > 2 || j < 1)
+                {
+                    Console.WriteLine("Por favor ingrese un formato correcto");
+                    Console.WriteLine("Los Terminos y condiciones son:" +
+                    "\n ..." +
+                    "\n ..." +
+                    "\n ..." +
+                    "\n ..." +
+                    "\n ..." +
+                    "\n 1 - Aceptar" +
+                    "\n 2 - Denegar");
+                    j = Convert.ToInt32(Console.ReadLine());
+                }
+                if (j == 1)
+                {
+                    Console.WriteLine("Se registro con exito");
 
-                socios.Add(socio1);
+                    socios.Add(socio1);
+                }
+                
             }
             else
             {
@@ -112,20 +138,20 @@ namespace Carga
            foreach (var i in socios)
             {
                 cont = cont + 1;
-                Console.WriteLine("\nLos datos del Socio " + cont + "son: ");
+                Console.WriteLine("\nLos datos del Socio " + cont + " son: ");
 
                 Console.WriteLine(i.nombre);
                 Console.WriteLine(i.apellido);
-                Console.WriteLine(i.dni);
-                Console.WriteLine(i.fechanac.ToString("dd/MM/yyyy"));
+                Console.WriteLine("D.N.I: " + i.dni);
+                Console.WriteLine("Fecha de nacimiento: " + i.fechanac.ToString("dd/MM/yyyy"));
                 Console.WriteLine(i.domicilio);
                 Console.WriteLine(i.localidad);
-                Console.WriteLine(i.telefono);
-                Console.WriteLine(i.email);
+                //Console.WriteLine(i.telefono);
+                //Console.WriteLine(i.email);
                 Console.WriteLine(i.gruposanguineo); 
-                Console.WriteLine(i.enfermedad.ToString());
-                Console.WriteLine(i.medicacion);
-                Console.WriteLine(i.categoria);
+                //Console.WriteLine(i.enfermedad.ToString());
+                //Console.WriteLine(i.medicacion);
+                Console.WriteLine("CATEGORIA: " + i.categoria);
             }
         }
     }

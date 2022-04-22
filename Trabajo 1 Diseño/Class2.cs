@@ -20,7 +20,6 @@ namespace Clasificacion
             {
                 DateTime aux = fecha.AddYears(18);
                 DateTime aux2 = fecha.AddYears(57);
-                Console.WriteLine(DateTime.Now);
 
                 if(aux > DateTime.Now || aux2 <= DateTime.Now)
                 {
