@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clasificacion
+namespace Catergoria
 {
     public class Clasificacion
     {
-        string queseyo;
+        string categoria;
 
-        public string clasificar (DateTime fecha, Boolean enfer)
+        public string clasificar (DateTime fecha, String enfer)
         {
-            if (enfer == true)
+            if (enfer != "No")
             {
-                queseyo = "Pasivo";
+                categoria = "Pasivo";
             }
             else
             {
@@ -23,16 +23,17 @@ namespace Clasificacion
 
                 if(aux > DateTime.Now || aux2 <= DateTime.Now)
                 {
-                    queseyo = "Pasivo";
+                    categoria = "Pasivo";
                 }
                 else
                 {
 
-                    queseyo = "Activo";
+                    categoria = "Activo";
                 }
                
             }
-            return queseyo;
+            return categoria;
         }
+
     }
 }
