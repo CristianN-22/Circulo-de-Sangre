@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\bin\Debug\net6.0\Trabajo 1 Diseño.exe
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\bin\Debug\net6.0\Trabajo 1 Diseño.deps.json
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\bin\Debug\net6.0\Trabajo 1 Diseño.runtimeconfig.json
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\bin\Debug\net6.0\Trabajo 1 Diseño.dll
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\bin\Debug\net6.0\Trabajo 1 Diseño.pdb
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\obj\Debug\net6.0\Trabajo 1 Diseño.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\obj\Debug\net6.0\Trabajo 1 Diseño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\obj\Debug\net6.0\Trabajo 1 Diseño.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\obj\Debug\net6.0\Trabajo 1 Diseño.AssemblyInfo.cs
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\obj\Debug\net6.0\Trabajo 1 Diseño.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\obj\Debug\net6.0\Trabajo 1 Diseño.dll
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\obj\Debug\net6.0\refint\Trabajo 1 Diseño.dll
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\obj\Debug\net6.0\Trabajo 1 Diseño.pdb
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\obj\Debug\net6.0\Trabajo 1 Diseño.genruntimeconfig.cache
+C:\Users\usuario\Desktop\cristian\practica C#\Trabajo 1 Diseño\Trabajo 1 Diseño\obj\Debug\net6.0\ref\Trabajo 1 Diseño.dll
