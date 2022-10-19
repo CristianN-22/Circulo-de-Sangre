@@ -17,9 +17,9 @@ namespace MapeoHerencia
 
             string datos = "INSERT INTO `jugador` (`idJugador`, `Nombre`, `Pais`, `Club`) VALUES ('1', 'Di Maria', 'Argentina', 'Juventus'); " +
                            "INSERT INTO `jugador` (`idJugador`, `Nombre`, `Pais`, `Club`) VALUES ('2', 'Montiel', 'Argentina', 'Sevilla'); " +
-                           "INSERT INTO `delantero` (`IdDelantero`, `Goles`) VALUES ('1', '1'); " +
-                           "INSERT INTO `lateral` (`IdLateral`, `Recuperos`) VALUES ('2', '3'); " +
-                           "INSERT INTO `lateral derecho` (`IdLateralDerecho`, `Patadas A Neymar`) VALUES ('2', '10'); ";
+                           "INSERT INTO `delantero` (`idDelantero`, `Goles`) VALUES ('1', '1'); " +
+                           "INSERT INTO `lateral` (`idLateral`, `Recuperos`) VALUES ('2', '3'); " +
+                           "INSERT INTO `lateral derecho` (`idLateralDerecho`, `Despejes`) VALUES ('2', '10'); ";
             MySqlCommand comando = new MySqlCommand(datos, conexion);
             comando.ExecuteNonQuery();
 
@@ -37,7 +37,7 @@ namespace MapeoHerencia
                 "PRIMARY KEY(`idJugador`));" +
                 "" +
                 "CREATE TABLE `mapeodeherencia`.`delantero` (" +
-                "`IdDelantero` INT NOT NULL," +
+                "`idDelantero` INT NOT NULL," +
                 "`Goles` INT NULL," +
                 "PRIMARY KEY (`IdDelantero`)," +
                 "INDEX `delantero_idx` (`IdDelantero` ASC) VISIBLE," +
@@ -50,7 +50,7 @@ namespace MapeoHerencia
                 "CREATE TABLE `mapeodeherencia`.`lateral`(" +
                 "`IdLateral` INT NOT NULL," +
                 "`Recuperos` INT NULL," +
-                "PRIMARY KEY (`IdLateral`)," +
+                "PRIMARY KEY (`idLateral`)," +
                 "INDEX `lateral_idx` (`IdLateral` ASC) VISIBLE," +
                 "CONSTRAINT `lateral`FOREIGN KEY(`IdLateral`)" +
                 "REFERENCES `mapeodeherencia`.`jugador` (`idJugador`) " +
@@ -58,8 +58,8 @@ namespace MapeoHerencia
                 "ON UPDATE NO ACTION); " +
                 "" +
                 "CREATE TABLE `mapeodeherencia`.`lateral derecho` (`IdLateralDerecho` INT NOT NULL," +
-                "`Patadas A Neymar` INT NULL," +
-                "PRIMARY KEY (`IdLateralDerecho`)," +
+                "`Despejes` INT NULL," +
+                "PRIMARY KEY (`idLateralDerecho`)," +
                 "INDEX `lateral derecho_idx` (`IdLateralDerecho` ASC) VISIBLE," +
                 "CONSTRAINT `lateral derecho`FOREIGN KEY(`IdLateralDerecho`)" +
                 "REFERENCES `mapeodeherencia`.`lateral` (`IdLateral`) " +

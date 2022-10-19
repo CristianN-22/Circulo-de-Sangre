@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4HSW/cAWOoSsV7I0XDC8srMViTyvanLoqN7TOJXUCGTN5Dax2Xegwmvjh99tRH4Cn92RNKofwcrayfD5p/Pvjw==",
+  "dgSpecHash": "Zf9sj6XL3ErwB6dFVnyUQjUTVkXDuQCSJixvYLNNdxMI8QsCxM9XDoq9LgC5Wa6UJ2ePycQohOb22V/H4a6gug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\Desktop\\MapeoHerencia\\MapeoHerencia.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\Patron\\MapeoHerencia\\MapeoHerencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

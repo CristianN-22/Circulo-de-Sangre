@@ -18,7 +18,7 @@ namespace MapeoHerencia
 
             string datos = "INSERT INTO `jugador` (`idJugador`, `Nombre`, `Pais`, `Club`, `Goles` ) VALUES ('1', 'Di Maria', 'Argentina', 'Juventus', '1'); " +
                            "INSERT INTO `jugador` (`idJugador`, `Nombre`, `Pais`, `Club`, `Recuperos`) VALUES ('2', 'Acuña', 'Argentina', 'Sevilla', '3'); " +
-                           "INSERT INTO `jugador` (`idJugador`, `Nombre`, `Pais`, `Club`, `Recuperos`, `Patadas A Neymar`) VALUES ('3', 'Montiel', 'Argentina', 'Sevilla', '0' , '5'); ";
+                           "INSERT INTO `jugador` (`idJugador`, `Nombre`, `Pais`, `Club`, `Recuperos`, `Despejes`) VALUES ('3', 'Montiel', 'Argentina', 'Sevilla', '0' , '5'); ";
 
             MySqlCommand comando = new MySqlCommand(datos, conexion);
             comando.ExecuteNonQuery();
@@ -36,7 +36,7 @@ namespace MapeoHerencia
                 "`Club` VARCHAR(45) NULL, " +
                 "`Goles` INT NULL, " +
                 "`Recuperos` INT NULL, " +
-                "`Patadas A Neymar` INT NULL, " +
+                "`Despejes` INT NULL, " +
                 "PRIMARY KEY(`idJugador`)); ";
 
             MySqlCommand comando = new MySqlCommand(tablas, conexion);

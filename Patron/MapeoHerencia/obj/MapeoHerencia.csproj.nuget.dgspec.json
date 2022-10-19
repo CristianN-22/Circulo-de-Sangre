@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Desktop\\MapeoHerencia\\MapeoHerencia.csproj": {}
+    "C:\\Users\\usuario\\Desktop\\Patron\\MapeoHerencia\\MapeoHerencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Desktop\\MapeoHerencia\\MapeoHerencia.csproj": {
+    "C:\\Users\\usuario\\Desktop\\Patron\\MapeoHerencia\\MapeoHerencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\MapeoHerencia\\MapeoHerencia.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Patron\\MapeoHerencia\\MapeoHerencia.csproj",
         "projectName": "MapeoHerencia",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\MapeoHerencia\\MapeoHerencia.csproj",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\Patron\\MapeoHerencia\\MapeoHerencia.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\MapeoHerencia\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\Patron\\MapeoHerencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
