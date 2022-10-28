@@ -1,0 +1,42 @@
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.exe
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.dll
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E_Commerce_Cobro_Interfaz.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E_Commerce_Cobro_Interfaz.Tarjeta.resources
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.dll
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\refint\E-Commerce-Cobro-Interfaz.dll
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\ref\E-Commerce-Cobro-Interfaz.dll
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E_Commerce_Cobro_Interfaz.Factura.resources
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.exe
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.deps.json
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.runtimeconfig.json
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.dll
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.pdb
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E_Commerce_Cobro_Interfaz.Factura.resources
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E_Commerce_Cobro_Interfaz.Properties.Resources.resources
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E_Commerce_Cobro_Interfaz.Tarjeta.resources
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.AssemblyInfo.cs
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.csproj.CopyComplete
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.dll
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\refint\E-Commerce-Cobro-Interfaz.dll
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.pdb
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\E-Commerce-Cobro-Interfaz.genruntimeconfig.cache
+C:\Users\usuario\Desktop\E-Commerce-Cobro-Interfaz\E-Commerce-Cobro-Interfaz\obj\Debug\net6.0-windows\ref\E-Commerce-Cobro-Interfaz.dll

@@ -1,0 +1,1 @@
+{"Numero":"231312","Titular":"asdads","DniTitular":123,"Vencimiento":"2022-10-01T00:00:00","CodSeguridad":123,"Tipo":0,"CantCuota":1}
